@@ -1,0 +1,230 @@
+(footprint "18650_battery_holder"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "18650 battery holder Keystone_54")
+	(tags "18650 battery holder Keystone_54")
+	(property "Reference" "REF**"
+		(at -0.14 -10.28 0)
+		(layer "F.SilkS")
+		(uuid "520b96fb-61ef-4ae7-ba95-0bade8f6e6dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "18650_battery_holder"
+		(at -2.8 3.3 0)
+		(layer "F.Fab")
+		(uuid "8ccf3c79-fdd6-474e-9064-591c2b86ece7")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "695e2497-cddd-4293-8526-954d2f3dae5f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d18a69e5-85a9-4f85-bfda-075bc5ce2a93")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b29a909b-4717-4033-a741-48cf96c85547")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(solder_mask_margin 0.01)
+	(solder_paste_margin -0.02)
+	(attr through_hole)
+	(fp_rect
+		(start -34.5 -5.5)
+		(end -21 5.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "d9d46c3a-7429-4ac8-975f-f063f67dc6d6")
+	)
+	(fp_rect
+		(start 21 -5.5)
+		(end 34.5 5.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "96929446-1971-4850-b426-9165a010e053")
+	)
+	(fp_rect
+		(start -36.5 -10.6)
+		(end -21.2 10.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "305043f2-d4a9-4f0e-943f-bb849d59cc86")
+	)
+	(fp_rect
+		(start -32.5 -9)
+		(end 32.5 9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "3fb5929b-2e63-4196-b019-ace5c7c93ca0")
+	)
+	(fp_rect
+		(start 21.2 -10.6)
+		(end 36.5 10.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "72d57c51-a58a-40df-8201-a91f3e9ce540")
+	)
+	(fp_text user "+"
+		(at -18.5 -0.2 0)
+		(layer "F.SilkS")
+		(uuid "3017ff5a-a688-458b-bc91-2b91ea1e010c")
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.7)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at -1 1.25 0)
+		(layer "F.Fab")
+		(uuid "a35b849b-99f9-44ef-a71c-43032176d7da")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "+" thru_hole roundrect
+		(at -30.62 0)
+		(size 3 2.9)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "087c6137-0cf9-4899-8db0-9d820f47d881")
+	)
+	(pad "+" thru_hole roundrect
+		(at -23 -2.54)
+		(size 3 2.9)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "ac36179d-50a7-43da-bfd0-91fe3db6ae24")
+	)
+	(pad "+" thru_hole roundrect
+		(at -23 2.54)
+		(size 3 2.9)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "99a3b4c9-cdd9-4c18-ab1a-57d31621a882")
+	)
+	(pad "-" thru_hole circle
+		(at 23 -2.54)
+		(size 3.2 3.2)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "37fd4e8d-1d6e-4743-9603-aa1c5b0d19a4")
+	)
+	(pad "-" thru_hole circle
+		(at 23 2.54)
+		(size 3.2 3.2)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "37c89778-7bee-4a0a-be41-8a72ae5a5bfc")
+	)
+	(pad "-" thru_hole circle
+		(at 30.62 0)
+		(size 3.2 3.2)
+		(drill 1.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c1673c26-3288-42a8-a30b-6b09652c1477")
+	)
+	(model "${GEMS}/3D_models/Battery_18650.step"
+		(offset
+			(xyz 32.5 0 10.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
+	(model "${GEMS}/3D_models/Keystone_54.step"
+		(offset
+			(xyz 23 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+	(model "${GEMS}/3D_models/Keystone_54.step"
+		(offset
+			(xyz -23 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
+)
