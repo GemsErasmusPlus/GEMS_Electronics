@@ -27,7 +27,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:18650_battery_holder"
+		(property "Footprint" "GEMS_Library:18650_battery_holder"
 			(at -3.048 0 90)
 			(effects
 				(font
@@ -186,7 +186,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOIC-8"
+		(property "Footprint" "GEMS_Library:SOIC-8"
 			(at 0 -1.778 0)
 			(effects
 				(font
@@ -503,7 +503,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOT-23"
+		(property "Footprint" "GEMS_Library:SOT-23"
 			(at 2.54 0 90)
 			(effects
 				(font
@@ -742,7 +742,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:CPT-1117-83-SMT"
+		(property "Footprint" "GEMS_Library:CPT-1117-83-SMT"
 			(at -0.508 0 90)
 			(effects
 				(font
@@ -1001,7 +1001,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:IDC8_Micro-MaTch"
+		(property "Footprint" "GEMS_Library:IDC8_Micro-MaTch"
 			(at -0.762 0 90)
 			(effects
 				(font
@@ -1288,7 +1288,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "GEMS_library:CMA-4544PF-W"
+		(property "Footprint" "GEMS_Library:CMA-4544PF-W"
 			(at -0.762 0 90)
 			(effects
 				(font
@@ -1524,7 +1524,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -1725,7 +1725,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "GEMS_library:TerminalScrew_1x16_P3.5mm"
+		(property "Footprint" "GEMS_Library:TerminalScrew_1x16_P3.5mm"
 			(at -0.254 0 90)
 			(effects
 				(font
@@ -2506,7 +2506,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "GEMS_library:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "GEMS_Library:PinHeader_1x04_P2.54mm_Vertical"
 			(at -0.762 0 90)
 			(effects
 				(font
@@ -2755,7 +2755,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOT-23"
+		(property "Footprint" "GEMS_Library:SOT-23"
 			(at 0.762 0 90)
 			(effects
 				(font
@@ -3083,7 +3083,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOT-23"
+		(property "Footprint" "GEMS_Library:SOT-23"
 			(at 0.762 0 90)
 			(effects
 				(font
@@ -3411,7 +3411,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOIC-8"
+		(property "Footprint" "GEMS_Library:SOIC-8"
 			(at 0.508 0 90)
 			(effects
 				(font
@@ -3819,7 +3819,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:HTSSOP-16_4.4x5mm_P0.65mm"
+		(property "Footprint" "GEMS_Library:HTSSOP-16_4.4x5mm_P0.65mm"
 			(at -0.508 0 90)
 			(effects
 				(font
@@ -4261,7 +4261,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:ESP32-C3-WROOM-02"
+		(property "Footprint" "GEMS_Library:ESP32-C3-WROOM-02"
 			(at 1.524 1.778 90)
 			(effects
 				(font
@@ -4729,7 +4729,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:ESP32-S3-WROOM"
+		(property "Footprint" "GEMS_Library:ESP32-S3-WROOM"
 			(at 3.048 0 90)
 			(effects
 				(font
@@ -5593,7 +5593,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:LED_D3.0mm"
+		(property "Footprint" "GEMS_Library:LED_D3.0mm"
 			(at 1.27 1.778 0)
 			(effects
 				(font
@@ -5804,7 +5804,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:LED_D5.0mm-4_RGB"
+		(property "Footprint" "GEMS_Library:LED_D5.0mm-4_RGB"
 			(at -0.508 0 90)
 			(effects
 				(font
@@ -6187,7 +6187,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOT-23-8"
+		(property "Footprint" "GEMS_Library:SOT-23-8"
 			(at -0.762 1.016 0)
 			(effects
 				(font
@@ -6439,7 +6439,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOIC-8"
+		(property "Footprint" "GEMS_Library:SOIC-8"
 			(at -1.778 -0.762 0)
 			(effects
 				(font
@@ -6723,7 +6723,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOT-23-5"
+		(property "Footprint" "GEMS_Library:SOT-23-5"
 			(at 1.524 0 90)
 			(effects
 				(font
@@ -6935,7 +6935,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:MDOB128032GV-WI"
+		(property "Footprint" "GEMS_Library:MDOB128032GV-WI"
 			(at 0 -1.016 0)
 			(effects
 				(font
@@ -7134,7 +7134,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOT-89-5"
+		(property "Footprint" "GEMS_Library:SOT-89-5"
 			(at -0.254 1.016 0)
 			(effects
 				(font
@@ -7342,7 +7342,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:RCWL-1601"
+		(property "Footprint" "GEMS_Library:RCWL-1601"
 			(at 0 2.032 0)
 			(effects
 				(font
@@ -7561,7 +7561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at -1.524 0 90)
 			(effects
 				(font
@@ -7741,7 +7741,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "GEMS_library:SW_PUSH_6mm_SMD"
+		(property "Footprint" "GEMS_Library:SW_PUSH_6mm_SMD"
 			(at 0 1.524 0)
 			(effects
 				(font
@@ -7940,7 +7940,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:SW_SPDT"
+		(property "Footprint" "GEMS_Library:SW_SPDT"
 			(at 1.016 2.032 0)
 			(effects
 				(font
@@ -8144,7 +8144,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOIC-8"
+		(property "Footprint" "GEMS_Library:SOIC-8"
 			(at -0.508 0.254 90)
 			(effects
 				(font
@@ -8406,7 +8406,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "GEMS_library:PT_D5.0mm"
+		(property "Footprint" "GEMS_Library:PT_D5.0mm"
 			(at 1.778 -1.27 90)
 			(effects
 				(font
@@ -8638,7 +8638,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOT-23-6"
+		(property "Footprint" "GEMS_Library:SOT-23-6"
 			(at 1.524 0 90)
 			(effects
 				(font
@@ -9279,7 +9279,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "GEMS_library:USB-C_MOLEX-216990-0001"
+		(property "Footprint" "GEMS_Library:USB-C_MOLEX-216990-0001"
 			(at -1.016 0.254 90)
 			(effects
 				(font
@@ -10020,7 +10020,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "GEMS_library:DO-214_(SMA)"
+		(property "Footprint" "GEMS_Library:DO-214_(SMA)"
 			(at 1.524 2.54 0)
 			(effects
 				(font

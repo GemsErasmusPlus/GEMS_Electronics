@@ -14,7 +14,7 @@
 		(comment 4 "Erasmus+ project KA2: Cooperation partnerships in higher education")
 	)
 	(lib_symbols
-		(symbol "GEMS_library:Buzzer"
+		(symbol "GEMS_Library:Buzzer"
 			(pin_names
 				(offset 0.0254) hide)
 			(exclude_from_sim no)
@@ -38,7 +38,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "GEMS_library:CPT-1117-83-SMT"
+			(property "Footprint" "GEMS_Library:CPT-1117-83-SMT"
 				(at -0.508 0 90)
 				(effects
 					(font
@@ -272,7 +272,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:CAN_connector"
+		(symbol "GEMS_Library:CAN_connector"
 			(pin_names
 				(offset 0.5)
 			)
@@ -297,7 +297,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "GEMS_library:IDC8_Micro-MaTch"
+			(property "Footprint" "GEMS_Library:IDC8_Micro-MaTch"
 				(at -0.762 0 90)
 				(effects
 					(font
@@ -560,7 +560,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:Capacitor"
+		(symbol "GEMS_Library:Capacitor"
 			(pin_numbers hide)
 			(pin_names
 				(offset 0.254)
@@ -586,7 +586,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "GEMS_library:C_1206_(3216)"
+			(property "Footprint" "GEMS_Library:C_1206_(3216)"
 				(at -1.778 0 90)
 				(effects
 					(font
@@ -763,7 +763,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:Conn_01x04"
+		(symbol "GEMS_Library:Conn_01x04"
 			(pin_names
 				(offset 1.016) hide)
 			(exclude_from_sim no)
@@ -787,7 +787,7 @@
 					(justify top)
 				)
 			)
-			(property "Footprint" "GEMS_library:PinHeader_1x04_P2.54mm_Vertical"
+			(property "Footprint" "GEMS_Library:PinHeader_1x04_P2.54mm_Vertical"
 				(at -0.762 0 90)
 				(effects
 					(font
@@ -1011,7 +1011,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:DMG2305UX-13"
+		(symbol "GEMS_Library:DMG2305UX-13"
 			(pin_numbers hide)
 			(pin_names
 				(offset 0) hide)
@@ -1036,7 +1036,7 @@
 					(justify top)
 				)
 			)
-			(property "Footprint" "GEMS_library:SOT-23"
+			(property "Footprint" "GEMS_Library:SOT-23"
 				(at 0.762 0 90)
 				(effects
 					(font
@@ -1339,7 +1339,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:ESP32-S3-WROOM"
+		(symbol "GEMS_Library:ESP32-S3-WROOM"
 			(pin_names
 				(offset 0.5)
 			)
@@ -1364,7 +1364,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "GEMS_library:ESP32-S3-WROOM"
+			(property "Footprint" "GEMS_Library:ESP32-S3-WROOM"
 				(at 3.048 0 90)
 				(effects
 					(font
@@ -2203,7 +2203,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:LED"
+		(symbol "GEMS_Library:LED"
 			(pin_numbers hide)
 			(pin_names
 				(offset 1.016) hide)
@@ -2228,7 +2228,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "GEMS_library:LED_D3.0mm"
+			(property "Footprint" "GEMS_Library:LED_D3.0mm"
 				(at 1.27 1.778 0)
 				(effects
 					(font
@@ -2414,7 +2414,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:OLED_Display_I2C"
+		(symbol "GEMS_Library:OLED_Display_I2C"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2436,7 +2436,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "GEMS_library:MDOB128032GV-WI"
+			(property "Footprint" "GEMS_Library:MDOB128032GV-WI"
 				(at 0 -1.016 0)
 				(effects
 					(font
@@ -2610,7 +2610,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:R1170H331B"
+		(symbol "GEMS_Library:R1170H331B"
 			(pin_names
 				(offset 0.254)
 			)
@@ -2635,7 +2635,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "GEMS_library:SOT-89-5"
+			(property "Footprint" "GEMS_Library:SOT-89-5"
 				(at -0.254 1.016 0)
 				(effects
 					(font
@@ -2818,7 +2818,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:Resistor"
+		(symbol "GEMS_Library:Resistor"
 			(pin_numbers hide)
 			(pin_names
 				(offset 0) hide)
@@ -2842,7 +2842,7 @@
 					)
 				)
 			)
-			(property "Footprint" "GEMS_library:R_1206_(3216)"
+			(property "Footprint" "GEMS_Library:R_1206_(3216)"
 				(at -1.524 0 90)
 				(effects
 					(font
@@ -2997,7 +2997,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:SW_Push_NO"
+		(symbol "GEMS_Library:SW_Push_NO"
 			(pin_numbers hide)
 			(pin_names
 				(offset 1.016) hide)
@@ -3022,7 +3022,7 @@
 					(justify top)
 				)
 			)
-			(property "Footprint" "GEMS_library:SW_PUSH_6mm_SMD"
+			(property "Footprint" "GEMS_Library:SW_PUSH_6mm_SMD"
 				(at 0 1.524 0)
 				(effects
 					(font
@@ -3197,7 +3197,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:TCAN332DR"
+		(symbol "GEMS_Library:TCAN332DR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3219,7 +3219,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "GEMS_library:SOIC-8"
+			(property "Footprint" "GEMS_Library:SOIC-8"
 				(at -0.508 0.254 90)
 				(effects
 					(font
@@ -3456,7 +3456,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:USBLC6-2SC6"
+		(symbol "GEMS_Library:USBLC6-2SC6"
 			(pin_names hide)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3479,7 +3479,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "GEMS_library:SOT-23-6"
+			(property "Footprint" "GEMS_Library:SOT-23-6"
 				(at 1.524 0 90)
 				(effects
 					(font
@@ -4095,7 +4095,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:USB_C_USB2.0"
+		(symbol "GEMS_Library:USB_C_USB2.0"
 			(pin_names
 				(offset 1.016)
 			)
@@ -4120,7 +4120,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "GEMS_library:USB-C_MOLEX-216990-0001"
+			(property "Footprint" "GEMS_Library:USB-C_MOLEX-216990-0001"
 				(at -1.016 0.254 90)
 				(effects
 					(font
@@ -4836,7 +4836,7 @@
 				)
 			)
 		)
-		(symbol "GEMS_library:XBS306"
+		(symbol "GEMS_Library:XBS306"
 			(pin_numbers hide)
 			(pin_names
 				(offset 1.016) hide)
@@ -4861,7 +4861,7 @@
 					(justify top)
 				)
 			)
-			(property "Footprint" "GEMS_library:DO-214_(SMA)"
+			(property "Footprint" "GEMS_Library:DO-214_(SMA)"
 				(at 1.524 2.54 0)
 				(effects
 					(font
@@ -9203,7 +9203,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:SW_Push_NO")
+		(lib_id "GEMS_Library:SW_Push_NO")
 		(at 43.18 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9228,7 +9228,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:SW_PUSH_6mm_SMD"
+		(property "Footprint" "GEMS_Library:SW_PUSH_6mm_SMD"
 			(at 43.18 34.036 0)
 			(effects
 				(font
@@ -9311,7 +9311,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Capacitor")
+		(lib_id "GEMS_Library:Capacitor")
 		(at 48.26 41.91 0)
 		(mirror y)
 		(unit 1)
@@ -9338,7 +9338,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 50.038 41.91 90)
 			(effects
 				(font
@@ -9448,7 +9448,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:ESP32-S3-WROOM")
+		(lib_id "GEMS_Library:ESP32-S3-WROOM")
 		(at 95.25 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9474,7 +9474,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:ESP32-S3-WROOM"
+		(property "Footprint" "GEMS_Library:ESP32-S3-WROOM"
 			(at 98.298 58.42 90)
 			(effects
 				(font
@@ -9741,7 +9741,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:DMG2305UX-13")
+		(lib_id "GEMS_Library:DMG2305UX-13")
 		(at 224.79 27.94 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9765,7 +9765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOT-23"
+		(property "Footprint" "GEMS_Library:SOT-23"
 			(at 224.79 27.178 90)
 			(effects
 				(font
@@ -9875,7 +9875,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:XBS306")
+		(lib_id "GEMS_Library:XBS306")
 		(at 217.17 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9900,7 +9900,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:DO-214_(SMA)"
+		(property "Footprint" "GEMS_Library:DO-214_(SMA)"
 			(at 218.694 30.48 0)
 			(effects
 				(font
@@ -10003,7 +10003,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:USB_C_USB2.0")
+		(lib_id "GEMS_Library:USB_C_USB2.0")
 		(at 267.97 48.26 0)
 		(mirror y)
 		(unit 1)
@@ -10030,7 +10030,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GEMS_library:USB-C_MOLEX-216990-0001"
+		(property "Footprint" "GEMS_Library:USB-C_MOLEX-216990-0001"
 			(at 268.986 48.006 90)
 			(effects
 				(font
@@ -10233,7 +10233,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:OLED_Display_I2C")
+		(lib_id "GEMS_Library:OLED_Display_I2C")
 		(at 162.56 128.27 270)
 		(mirror x)
 		(unit 1)
@@ -10258,7 +10258,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:MDOB128032GV-WI"
+		(property "Footprint" "GEMS_Library:MDOB128032GV-WI"
 			(at 161.544 128.27 0)
 			(effects
 				(font
@@ -10413,7 +10413,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Resistor")
+		(lib_id "GEMS_Library:Resistor")
 		(at 48.26 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10440,7 +10440,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 46.736 29.21 90)
 			(effects
 				(font
@@ -10607,7 +10607,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Conn_01x04")
+		(lib_id "GEMS_Library:Conn_01x04")
 		(at 50.8 127 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10632,7 +10632,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "GEMS_Library:PinHeader_1x04_P2.54mm_Vertical"
 			(at 50.038 127 90)
 			(effects
 				(font
@@ -10807,7 +10807,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:TCAN332DR")
+		(lib_id "GEMS_Library:TCAN332DR")
 		(at 60.96 171.45 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10833,7 +10833,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOIC-8"
+		(property "Footprint" "GEMS_Library:SOIC-8"
 			(at 60.452 171.196 90)
 			(effects
 				(font
@@ -11001,7 +11001,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Capacitor")
+		(lib_id "GEMS_Library:Capacitor")
 		(at 226.06 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11027,7 +11027,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 224.282 74.93 90)
 			(effects
 				(font
@@ -11137,7 +11137,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Capacitor")
+		(lib_id "GEMS_Library:Capacitor")
 		(at 179.07 31.75 0)
 		(mirror y)
 		(unit 1)
@@ -11164,7 +11164,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 180.848 31.75 90)
 			(effects
 				(font
@@ -11339,7 +11339,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Resistor")
+		(lib_id "GEMS_Library:Resistor")
 		(at 224.79 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11366,7 +11366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 223.266 39.37 90)
 			(effects
 				(font
@@ -11467,7 +11467,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Resistor")
+		(lib_id "GEMS_Library:Resistor")
 		(at 60.96 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11494,7 +11494,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 59.436 123.19 90)
 			(effects
 				(font
@@ -11661,7 +11661,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Resistor")
+		(lib_id "GEMS_Library:Resistor")
 		(at 139.7 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11688,7 +11688,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 138.176 29.21 90)
 			(effects
 				(font
@@ -11789,7 +11789,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:CAN_connector")
+		(lib_id "GEMS_Library:CAN_connector")
 		(at 90.17 179.07 0)
 		(mirror y)
 		(unit 1)
@@ -11814,7 +11814,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:IDC8_Micro-MaTch"
+		(property "Footprint" "GEMS_Library:IDC8_Micro-MaTch"
 			(at 90.932 179.07 90)
 			(effects
 				(font
@@ -11935,7 +11935,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:LED")
+		(lib_id "GEMS_Library:LED")
 		(at 162.56 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11962,7 +11962,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GEMS_library:LED_D3.0mm"
+		(property "Footprint" "GEMS_Library:LED_D3.0mm"
 			(at 160.782 41.91 0)
 			(effects
 				(font
@@ -12045,7 +12045,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:R1170H331B")
+		(lib_id "GEMS_Library:R1170H331B")
 		(at 189.23 25.4 0)
 		(mirror y)
 		(unit 1)
@@ -12071,7 +12071,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOT-89-5"
+		(property "Footprint" "GEMS_Library:SOT-89-5"
 			(at 189.484 24.384 0)
 			(effects
 				(font
@@ -12296,7 +12296,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Capacitor")
+		(lib_id "GEMS_Library:Capacitor")
 		(at 31.75 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12322,7 +12322,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 29.972 29.21 90)
 			(effects
 				(font
@@ -12432,7 +12432,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Resistor")
+		(lib_id "GEMS_Library:Resistor")
 		(at 71.12 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12459,7 +12459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 69.596 123.19 90)
 			(effects
 				(font
@@ -12625,7 +12625,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Resistor")
+		(lib_id "GEMS_Library:Resistor")
 		(at 237.49 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12651,7 +12651,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 235.966 74.93 90)
 			(effects
 				(font
@@ -12752,7 +12752,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Resistor")
+		(lib_id "GEMS_Library:Resistor")
 		(at 162.56 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12779,7 +12779,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 161.036 31.75 90)
 			(effects
 				(font
@@ -12880,7 +12880,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Capacitor")
+		(lib_id "GEMS_Library:Capacitor")
 		(at 114.3 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12906,7 +12906,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 112.522 132.08 90)
 			(effects
 				(font
@@ -13082,7 +13082,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:SW_Push_NO")
+		(lib_id "GEMS_Library:SW_Push_NO")
 		(at 149.86 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13107,7 +13107,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:SW_PUSH_6mm_SMD"
+		(property "Footprint" "GEMS_Library:SW_PUSH_6mm_SMD"
 			(at 149.86 34.036 0)
 			(effects
 				(font
@@ -13256,7 +13256,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Capacitor")
+		(lib_id "GEMS_Library:Capacitor")
 		(at 19.05 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13282,7 +13282,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 17.272 29.21 90)
 			(effects
 				(font
@@ -13524,7 +13524,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Resistor")
+		(lib_id "GEMS_Library:Resistor")
 		(at 247.65 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13550,7 +13550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 246.126 74.93 90)
 			(effects
 				(font
@@ -13651,7 +13651,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Resistor")
+		(lib_id "GEMS_Library:Resistor")
 		(at 275.59 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13677,7 +13677,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 274.066 74.93 90)
 			(effects
 				(font
@@ -13778,7 +13778,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:USBLC6-2SC6")
+		(lib_id "GEMS_Library:USBLC6-2SC6")
 		(at 218.44 63.5 0)
 		(mirror y)
 		(unit 1)
@@ -13805,7 +13805,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOT-23-6"
+		(property "Footprint" "GEMS_Library:SOT-23-6"
 			(at 216.916 63.5 90)
 			(effects
 				(font
@@ -13966,7 +13966,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:CAN_connector")
+		(lib_id "GEMS_Library:CAN_connector")
 		(at 146.05 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13991,7 +13991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:IDC8_Micro-MaTch"
+		(property "Footprint" "GEMS_Library:IDC8_Micro-MaTch"
 			(at 145.288 179.07 90)
 			(effects
 				(font
@@ -14112,7 +14112,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Capacitor")
+		(lib_id "GEMS_Library:Capacitor")
 		(at 201.93 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14138,7 +14138,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 200.152 31.75 90)
 			(effects
 				(font
@@ -14248,7 +14248,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Capacitor")
+		(lib_id "GEMS_Library:Capacitor")
 		(at 139.7 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14274,7 +14274,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 137.922 41.91 90)
 			(effects
 				(font
@@ -14384,7 +14384,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:SW_Push_NO")
+		(lib_id "GEMS_Library:SW_Push_NO")
 		(at 124.46 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14409,7 +14409,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:SW_PUSH_6mm_SMD"
+		(property "Footprint" "GEMS_Library:SW_PUSH_6mm_SMD"
 			(at 124.46 124.206 0)
 			(effects
 				(font
@@ -14624,7 +14624,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Resistor")
+		(lib_id "GEMS_Library:Resistor")
 		(at 114.3 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14651,7 +14651,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 112.776 119.38 90)
 			(effects
 				(font
@@ -14752,7 +14752,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Conn_01x04")
+		(lib_id "GEMS_Library:Conn_01x04")
 		(at 250.19 125.73 0)
 		(mirror y)
 		(unit 1)
@@ -14779,7 +14779,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GEMS_library:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "GEMS_Library:PinHeader_1x04_P2.54mm_Vertical"
 			(at 250.952 125.73 90)
 			(effects
 				(font
@@ -15152,7 +15152,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Buzzer")
+		(lib_id "GEMS_Library:Buzzer")
 		(at 196.85 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15179,7 +15179,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:CPT-1117-83-SMT"
+		(property "Footprint" "GEMS_Library:CPT-1117-83-SMT"
 			(at 196.342 128.27 90)
 			(effects
 				(font
@@ -15328,7 +15328,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GEMS_library:Capacitor")
+		(lib_id "GEMS_Library:Capacitor")
 		(at 33.02 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15354,7 +15354,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 31.242 170.18 90)
 			(effects
 				(font

@@ -164,7 +164,7 @@
 	(net 30 "Net-(J5-CASE)")
 	(net 31 "unconnected-(U2-NC-Pad3)")
 	(net 32 "LX_C")
-	(footprint "GEMS_library:PT_D5.0mm"
+	(footprint "GEMS_Library:PT_D5.0mm"
 		(layer "F.Cu")
 		(uuid "344e0da7-1a3d-4a15-a805-609f355996b6")
 		(at 114.808 122.936 -90)
@@ -193,7 +193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:PT_D5.0mm"
+		(property "Footprint" "GEMS_Library:PT_D5.0mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -397,7 +397,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:SW_PUSH_6mm_SMD"
+	(footprint "GEMS_Library:SW_PUSH_6mm_SMD"
 		(layer "F.Cu")
 		(uuid "68e42a21-0dfe-4bbe-8423-e17470c72151")
 		(at 90.5 107.675 90)
@@ -425,7 +425,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:SW_PUSH_6mm_SMD"
+		(property "Footprint" "GEMS_Library:SW_PUSH_6mm_SMD"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -752,7 +752,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:PinHeader_1x04_P2.54mm_Vertical"
+	(footprint "GEMS_Library:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "6fc3495f-b674-4de0-a5ce-5b12a4e576df")
 		(at 88.9 133.985)
@@ -780,7 +780,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "GEMS_Library:PinHeader_1x04_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1105,7 +1105,7 @@
 			(uuid "adacbcad-2117-461e-9265-b9d227f84841")
 		)
 	)
-	(footprint "GEMS_library:USB-C_MOLEX-216990-0001"
+	(footprint "GEMS_Library:USB-C_MOLEX-216990-0001"
 		(layer "F.Cu")
 		(uuid "708c94de-0c73-483b-b02c-dac081ebe47e")
 		(at 105.02 136.75)
@@ -1135,7 +1135,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:USB-C_MOLEX-216990-0001"
+		(property "Footprint" "GEMS_Library:USB-C_MOLEX-216990-0001"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1552,7 +1552,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:SW_PUSH_6mm_SMD"
+	(footprint "GEMS_Library:SW_PUSH_6mm_SMD"
 		(layer "F.Cu")
 		(uuid "8fd611b9-2365-4f8d-af35-fc99303ad76c")
 		(at 119.5 107.675 90)
@@ -1580,7 +1580,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:SW_PUSH_6mm_SMD"
+		(property "Footprint" "GEMS_Library:SW_PUSH_6mm_SMD"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1907,7 +1907,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:PinHeader_1x04_P2.54mm_Vertical"
+	(footprint "GEMS_Library:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "956e3c8f-e815-4305-ac02-55c8b0e5744f")
 		(at 121.285 133.985)
@@ -1935,7 +1935,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "GEMS_Library:PinHeader_1x04_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2260,7 +2260,7 @@
 			(uuid "918eda42-d21c-4999-85ec-b9fb121114ec")
 		)
 	)
-	(footprint "GEMS_library:ESP32-C3-WROOM-02"
+	(footprint "GEMS_Library:ESP32-C3-WROOM-02"
 		(layer "F.Cu")
 		(uuid "a9db063f-8a99-4272-830e-8ce5fe2c8e04")
 		(at 105 108.585)
@@ -2290,7 +2290,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:ESP32-C3-WROOM-02"
+		(property "Footprint" "GEMS_Library:ESP32-C3-WROOM-02"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2789,7 +2789,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:PinHeader_1x04_P2.54mm_Vertical"
+	(footprint "GEMS_Library:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "b19b771d-ae4b-4eca-82b8-6f49d538b766")
 		(at 88.9 121.285)
@@ -2817,7 +2817,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "GEMS_Library:PinHeader_1x04_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3142,7 +3142,7 @@
 			(uuid "96681ddc-b699-436a-b18f-1c44058c41e9")
 		)
 	)
-	(footprint "GEMS_library:LED_D5.0mm-4_RGB"
+	(footprint "GEMS_Library:LED_D5.0mm-4_RGB"
 		(layer "F.Cu")
 		(uuid "de941d8f-27c6-4cf7-882c-7c6c5c4a56b8")
 		(at 95.504 122.936 -90)
@@ -3170,7 +3170,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:LED_D5.0mm-4_RGB"
+		(property "Footprint" "GEMS_Library:LED_D5.0mm-4_RGB"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3395,7 +3395,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:PinHeader_1x04_P2.54mm_Vertical"
+	(footprint "GEMS_Library:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "edc1e593-3833-4ff8-abeb-3512a7dbf65c")
 		(at 121.285 121.285)
@@ -3423,7 +3423,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GEMS_library:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "GEMS_Library:PinHeader_1x04_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3748,7 +3748,7 @@
 			(uuid "fdd5b6c7-e7e0-4252-83f5-57617a1b8bc6")
 		)
 	)
-	(footprint "GEMS_library:C_1206_(3216)"
+	(footprint "GEMS_Library:C_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "034616c1-62e6-4de0-9599-48d695271447")
 		(at 94.9452 104.8004 -90)
@@ -3778,7 +3778,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -4038,7 +4038,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:SOT-89-5"
+	(footprint "GEMS_Library:SOT-89-5"
 		(layer "B.Cu")
 		(uuid "0be664f3-97c8-47e1-9963-07690843fa37")
 		(at 101.854 126.0856 180)
@@ -4068,7 +4068,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOT-89-5"
+		(property "Footprint" "GEMS_Library:SOT-89-5"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4376,7 +4376,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "0e4b779c-f0d0-4cf3-8742-2e6ccafd70ef")
 		(at 96.139 116.332 -90)
@@ -4406,7 +4406,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -4652,7 +4652,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "11d69381-fb7e-40b5-9c2b-bb972cd4210b")
 		(at 109.22 105.003 -90)
@@ -4682,7 +4682,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -4928,7 +4928,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "1da79c01-10a9-41d4-b05a-02440a19e763")
 		(at 115.824 136.4228 -90)
@@ -4958,7 +4958,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5680,7 +5680,7 @@
 			(uuid "f9fcf32a-8134-4b04-a818-cd2cfc319891")
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "49f7365e-c61c-4e05-968f-8d18526b1947")
 		(at 93.726 116.332 -90)
@@ -5710,7 +5710,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5956,7 +5956,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "5f7f3859-e9a6-4afe-a834-87176a763645")
 		(at 99.822 109.5248 -90)
@@ -5986,7 +5986,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6232,7 +6232,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:C_1206_(3216)"
+	(footprint "GEMS_Library:C_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "63e210f9-285f-4211-ab60-94a6e9ac64c9")
 		(at 97.536 128.651 -90)
@@ -6262,7 +6262,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6522,7 +6522,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "6431bff6-a43f-4c0b-aca4-7d1f95d74a7b")
 		(at 94.3864 136.3472 -90)
@@ -6552,7 +6552,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6798,7 +6798,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "6a835a65-6356-4d43-a851-d9befbc84a76")
 		(at 98.552 116.306 -90)
@@ -6828,7 +6828,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7074,7 +7074,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "6dd94a23-1961-49a3-96b8-2f4f18701978")
 		(at 90.45 107.696 180)
@@ -7104,7 +7104,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7350,7 +7350,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:C_1206_(3216)"
+	(footprint "GEMS_Library:C_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "708b4de0-f79e-4529-8493-ac1fd8c309d3")
 		(at 106.0704 126.8984 -90)
@@ -7380,7 +7380,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7640,7 +7640,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:SOT-23-6"
+	(footprint "GEMS_Library:SOT-23-6"
 		(layer "B.Cu")
 		(uuid "71016034-5871-4f98-9557-5d869a355545")
 		(at 109.794 127.13 90)
@@ -7670,7 +7670,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:SOT-23-6"
+		(property "Footprint" "GEMS_Library:SOT-23-6"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7943,7 +7943,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "7229f047-4ec8-4ff9-9633-f032c9be64e4")
 		(at 96.647 136.372 -90)
@@ -7973,7 +7973,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8219,7 +8219,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "8afd844b-5bf3-41a6-9613-41b36f551a9e")
 		(at 113.919 116.332 90)
@@ -8249,7 +8249,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8495,7 +8495,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "9142257f-736d-4782-a3df-44b49f55512d")
 		(at 92.1004 136.3472 -90)
@@ -8525,7 +8525,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8771,7 +8771,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:C_1206_(3216)"
+	(footprint "GEMS_Library:C_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "942eacfe-dfcc-45bb-9b15-3c22b012fd66")
 		(at 113.4872 128.6256 -90)
@@ -8801,7 +8801,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9061,7 +9061,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:C_1206_(3216)"
+	(footprint "GEMS_Library:C_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "a859c891-c485-42a3-b6c9-c314c8dcdbcf")
 		(at 90.551 103.505)
@@ -9091,7 +9091,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9351,7 +9351,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "b14ce556-ca48-45b0-8076-a179dac60329")
 		(at 119.507 107.696)
@@ -9381,7 +9381,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9627,7 +9627,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "b4a722f4-9d73-4d74-bdc1-54951605f3ab")
 		(at 116.332 116.332 90)
@@ -9657,7 +9657,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9903,7 +9903,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "c2e51978-73a8-4c29-a1a0-5f86f7aff198")
 		(at 113.4872 136.424 -90)
@@ -9933,7 +9933,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10179,7 +10179,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:C_1206_(3216)"
+	(footprint "GEMS_Library:C_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "d37d8cf5-d33a-4a1d-98dd-3790ac69ae50")
 		(at 106.68 116.3705 90)
@@ -10209,7 +10209,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10469,7 +10469,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "d39d85cb-f6b5-4140-8f0b-eaa12f7fcc1f")
 		(at 110.617 121.666 180)
@@ -10499,7 +10499,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10745,7 +10745,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:C_1206_(3216)"
+	(footprint "GEMS_Library:C_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "dc9de413-4765-4010-9e71-9b361ae4aa40")
 		(at 97.3836 104.8004 -90)
@@ -10775,7 +10775,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11035,7 +11035,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:C_1206_(3216)"
+	(footprint "GEMS_Library:C_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "f73af655-364a-463c-b893-8667b5ec0c26")
 		(at 119.4685 103.505 180)
@@ -11065,7 +11065,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:C_1206_(3216)"
+		(property "Footprint" "GEMS_Library:C_1206_(3216)"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11325,7 +11325,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "faa9197c-cc85-43ca-bda4-a7f9fed8de27")
 		(at 109.093 116.332 -90)
@@ -11355,7 +11355,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11601,7 +11601,7 @@
 			)
 		)
 	)
-	(footprint "GEMS_library:R_1206_(3216)"
+	(footprint "GEMS_Library:R_1206_(3216)"
 		(layer "B.Cu")
 		(uuid "fcdab2a9-a930-430e-bb7d-a24b793aaf9f")
 		(at 111.506 116.332 90)
@@ -11631,7 +11631,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "GEMS_library:R_1206_(3216)"
+		(property "Footprint" "GEMS_Library:R_1206_(3216)"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
